@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+.mt-15 {
+  margin-top: 15px;
+}
+
+.mr-15 {
+  margin-top: 15px;
+}
+
+.ml-15 {
+  margin-top: 15px;
+}
+
+.pr-15 {
+  margin-top: 15px;
+}
+
+.text-right {
+  float: right;
+  cursor: pointer;
+}
+
+.text-right :hover {
+  color: red;
+}
+
+.sort_selected {
+  content: '\f00c';
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  margin: 0px 0px 0px 10px;
+  display: inline-block;
+}
